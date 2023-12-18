@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../prueba_temperatura"
+		},
+		{
+			"name": "PRUEBA_BASE DE DATOS",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
